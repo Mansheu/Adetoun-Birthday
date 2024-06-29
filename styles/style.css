@@ -21,10 +21,6 @@
   
   h1 {
     font-weight: normal;
-    background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
-    color: antiquewhite;
-    padding: 2px;
-    border-radius: 4px;
 }
   li {
     display: inline-block;
